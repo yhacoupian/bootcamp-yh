@@ -5,7 +5,7 @@
 
 **BCdiploma** is a startup from France that is active in the digital credential space. They allow academic institutions to configure and grant digital verifiable diplomas, certificates, and transcripts. BCdiploma achieve this through the use of blockchain. The company was founded in 2017 by Luc Jarry Lacombe and Vincent Langard. 
 
-According to Crunchbase, the company has raised two rounds of financing since 2018. In 2018, they raised a seed round of 1.9 million euros. Subsicuently in 2019, they did another venture round for 1.2 million euros. The company has raised a total of 3.2 million euros of VC funding. 
+According to Crunchbase, the company has raised two rounds of financing since 2018. In 2018, they raised a seed round of 1.9 million euros. Subsequently in 2019, they did another venture round for 1.2 million euros. The company has raised a total of 3.2 million euros of VC funding. 
 
 ## *Business Activities*
 
